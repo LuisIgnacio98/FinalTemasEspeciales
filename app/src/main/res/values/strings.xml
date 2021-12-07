@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+
+    //Login
+    <string name="loginButton">Iniciar Sesión</string>
+
+    <string name="correoElectronico">Correo Electrónico:</string>
+    <string name="contraseña">Contraseña:</string>
+
+    <string name="correoPlaceholder">Ingrese Correo Electrónico</string>
+    <string name="contraseñaPlaceholder">Ingrese Contraseña</string>
+
+    <string name="olvidoContraseña">¿Olvido la contraseña?</string>
+    <string name="registrateAqui">¿No tienes cuenta? Registrate aquí</string>
+
+    //Register
+    <string name="registrateButton">Registrar</string>
+
+    <string name="nombrePlaceholder">Ingresa el nombre completo</string>
+    <string name="usuarioPlaceholder">Ingresa el usuario</string>
+    <string name="repetirContraseñaPlaceholder">Repita la contraseña</string>
+    <string name="telefonoPlaceholder">Ingrese teléfono</string>
+
+
+    //Olvido contraseña
+    <string name="resetPassword">Reset Contraseña</string>
+
+    //Incio
+    <string name="home">Inicio</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
